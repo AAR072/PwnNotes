@@ -5,8 +5,12 @@ title: Home
 
 Welcome to my personal knowledge base.  
 
-This is a curated collection of insights, experiments, and observations from my journey exploring the world of cybersecurity. Here, ideas are organized, concepts are explored, and knowledge is preserved for future reference.  
+These notes are created from my personal experiences and exploration.
 
-Whether you’re revisiting old techniques or discovering new ones, this vault serves as a personal guide and a living document that grows over time.  
+I intentionally avoid using generative AI for the contents on this site.
 
-Feel free to navigate through the sections, explore the notes, and see how various concepts connect. This space is meant to evolve, reflect, and inspire continuous learning.
+This is for a multitude of reasons. 
+
+>A Slop Generator cannot assess the veracity of its claims, nor can it ever tell you that it simply does not know something. Slop Generators are often _confidently incorrect_ as a result, and require brow-beating to admit a mistake. They are therefore highly inappropriate tools in contexts where truth and correctness are of utmost importance, and when the user is not already highly knowledgeable and confident in the problem area. This presents a bit of an issue for Slop Generators; if the user is already highly knowledgeable and confident in the problem area, then why ask the Slop Generator in the first place?
+
+https://asahilinux.org/docs/project/policies/slop/
